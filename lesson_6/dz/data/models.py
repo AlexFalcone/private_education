@@ -78,7 +78,6 @@ class Contracts(Singleton):
     )
 
 
-
 class InitialCsvData:
     HEADER = ['private_key', 'name', 'proxy']
 
